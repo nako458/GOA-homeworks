@@ -1,0 +1,11 @@
+print(6 < 7 or 5 > 6)
+print(2 > 7 or 5 > 6)
+print(7 < 7 or 1 > 6)
+print(6 > 4 or 5 < 4)
+print(8 < 7 or 5 < 1)
+
+print(4 > 7 and 5 < 6)
+print(6 < 7 and 1 > 6)
+print(6 > 5 and 5 > 6)
+print(6 < 3 and 5 > 6)
+print(8 < 7 and 5 < 9)
